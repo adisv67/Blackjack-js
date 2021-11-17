@@ -1,0 +1,15 @@
+body{
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+h1{
+    color: goldenrod;
+}
+.btn{
+    background-color: goldenrod;
+    border: none;
+    border-radius: 2px;
+    font-weight: bold;
+    padding: 2px 2px;
+}
